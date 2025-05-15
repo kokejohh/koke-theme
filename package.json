@@ -1,0 +1,21 @@
+{
+  "name": "koke-theme",
+  "displayName": "Koke Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Koke",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Koke-color-theme.json"
+      }
+    ]
+  }
+}
