@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Koke",
+        "label": "Koke Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Koke-color-theme.json"
+        "path": "./themes/Koke-Dark-color-theme.json"
       }
     ]
   }

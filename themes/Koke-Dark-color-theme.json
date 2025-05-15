@@ -1,10 +1,39 @@
 {
-	"name": "Koke",
+	"name": "Koke Dark",
+	
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#446644",
+		"editor.foreground": "#eee454",
+		"activityBarBadge.background": "#335533",
+		"sideBarTitle.foreground": "#efffff",
+		
+		"tab.activeBackground": "#446644",
+		"tab.inactiveBackground": "#335533",
+		"tab.activeForeground": "#efffff",
+		"tab.inactiveForeground": "#bbbbbb",
+		"tab.border": "#334433",
+
+		"editorGroupHeader.tabsBackground": "#335533", // พื้นหลัง toolbar ใต้แท็บ
+		"editorGroupHeader.noTabsBackground": "#223322", // สำหรับกรณีไม่มีแท็บ
+		"editorGroup.border": "#334433",
+
+		"titleBar.activeBackground": "#335533",
+		"titleBar.activeForeground": "#efffff",
+		"titleBar.inactiveBackground": "#335533",
+		"titleBar.inactiveForeground": "#aaaaaa",
+
+		"menu.background": "#557755",
+		"menu.foreground": "#efffff",
+		"menu.selectionBackground": "#ff9e30",
+		"menu.selectionForeground": "#335533",
+		
+		"activityBar.background": "#557755",
+		"activityBar.foreground": "#efffff",
+		"activityBar.inactiveForeground": "#ff9e30",
+		
+		"sideBar.background": "#335533",
+		"sideBar.foreground": "#efffff",
+		"sideBar.border": "#334433",
 	},
 	"tokenColors": [
 		{
@@ -15,7 +44,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#bababa"
 			}
 		},
 		{
@@ -25,7 +54,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#eeffff"
 			}
 		},
 		{
@@ -34,7 +63,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f70000"
 			}
 		},
 		{
@@ -55,7 +84,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff9e30"
 			}
 		},
 		{
@@ -75,7 +104,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ffab4b"
 			}
 		},
 		{
@@ -134,7 +163,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#eeffff"
 			}
 		},
 		{
@@ -149,7 +178,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#76cc26"
 			}
 		},
 		{
