@@ -15,6 +15,21 @@
         "label": "Koke Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Koke-Dark-color-theme.json"
+      },
+      {
+        "label": "Koke Light",
+        "uiTheme": "vs",
+        "path": "./themes/Koke-Light-color-theme.json"
+      },
+      {
+        "label": "Koke Inverst Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Koke-Inverst-Dark-color-theme.json"
+      },
+      {
+        "label": "Koke Inverst Light",
+        "uiTheme": "vs",
+        "path": "./themes/Koke-Inverst-Light-color-theme.json"
       }
     ]
   }
