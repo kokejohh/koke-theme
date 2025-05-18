@@ -1,6 +1,7 @@
 {
   "name": "koke-theme",
   "displayName": "Koke Theme",
+  "publisher": "Koke",
   "description": "",
   "version": "1.0.0",
   "engines": {
