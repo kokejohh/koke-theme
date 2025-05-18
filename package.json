@@ -4,7 +4,7 @@
   "publisher": "Koke",
   "icon": "./icon.png",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.100.0"
   },
