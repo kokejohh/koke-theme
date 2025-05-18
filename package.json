@@ -2,6 +2,7 @@
   "name": "koke-theme",
   "displayName": "Koke Theme",
   "publisher": "Koke",
+  "icon": "./icon.png",
   "description": "",
   "version": "1.0.1",
   "engines": {
