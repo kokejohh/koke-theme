@@ -6,4 +6,5 @@ update:
 
 1.0.0 - first theme upload<br>
 1.0.2 - update logo<br>
-1.1.0 - change theme color
+1.1.0 - change theme color<br>
+1.1.1 - update logo
